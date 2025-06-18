@@ -7,47 +7,29 @@
 {
 "descriptionCam": "Star Plus Novelas TV est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....",
 "sourceCam": [
-"http://41.223.30.44:1935/starnovelas/starnovelas/playlist.m3u8"
+" http://41.223.30.228/STARPLUS-NOVELAS/video.m3u8"
 ],
-"subtitleCam": "By Channel",
+"subtitleCam": "All Channel",
 "thumbCam": "https://od.lk/s/M18zMDM4NzcxNzZf/starNovelas.jpg",
 "titleCam": "STAR+ NOVELAS"
 },
 {
+"descriptionCam": "Next TV est l'une des chaines generaliste privées que l'on retrouve dans la ville de Yaounde, possédant des émissions variées et musique, Politiques...",
+"sourceCam": [
+"http://41.223.30.228/NEXTTV/video.m3u8"
+],
+"subtitleCam": "All Channel",
+"thumbCam": "https://od.lk/s/NDZfODIzODAxMzFf/nextTV.jpg",
+"titleCam": "NEXT TV"
+},
+{
 "descriptionCam": "CRTV est une chaine télévisée ematant au cameroune qui diffuse de la musique de toutes tendances.",
 "sourceCam": [
-"http://185.59.221.131:8081/live/crtv/playlist.m3u8"
+"http://145.239.5.177/147/index.m3u8"
 ],
-"subtitleCam": "By Channel",
+"subtitleCam": "All Channel",
 "thumbCam": "https://od.lk/s/M18yOTU4OTU4MDlf/crtv.png",
 "titleCam": "CRTV"
-},
-{
-"descriptionCam": "Ctv Africa TV est une chaîne de divertissement et d’évènementiel en Afrique francophone, anglophone et lusophone",
-"sourceCam": [
-"https://stream.it-innov.com:443/ctv/tracks-v1a1/mono.m3u8"
-],
-"subtitleCam": "By Channel",
-"thumbCam": "https://od.lk/s/M18yODQ2NjkyNzBf/ctvAfrique.jpeg",
-"titleCam": "CTV AFRICA"
-},
-{
-"descriptionCam": "Canal Woyla TV est une chaîne de divertissement et d’évènementiel. en Afrique francophone, anglophone et lusophone",
-"sourceCam": [
-"http://41.223.30.44:1935/Canalwoyla/canalwoyla/playlist.m3u8"
-],
-"subtitleCam": "By Channel",
-"thumbCam": "https://od.lk/s/NzNfNzk4NjUyNTJf/IMG-20240320-WA0729.jpg",
-"titleCam": "CANAL WOYLA"
-},
-{
-"descriptionCam": "Canal 2 International est l'une des chaines privées que l'on retrouve dans la ville de Yaounde, possédant des émissions variées et musiques",
-"sourceCam": [
-"http://185.59.221.131:8081/live/canal2international/playlist.m3u8"
-],
-"subtitleCam": "By Channel",
-"thumbCam": "https://od.lk/s/M18zMDM4Nzc0MzRf/canal2Intern.jpeg",
-"titleCam": "CANAL 2 INTERNATIONAL"
 },
 {
 "descriptionCam": "Equinox TV est une chaîne de divertissement et d’évènementiel. en Afrique francophone, anglophone et lusophone",
@@ -57,6 +39,42 @@
 "subtitleCam": "By Channel",
 "thumbCam": "https://od.lk/s/M18yOTU4OTUzNThf/equinox.jpeg",
 "titleCam": "EQUINOX TV"
+},
+{
+"descriptionCam": "Canal 2 International est une chaîne de divertissement et d’évènementiel. en Afrique francophone, anglophone et lusophone",
+"sourceCam": [
+"http://69.64.57.208/canal2international/playlist.m3u8"
+],
+"subtitleCam": "By Channel",
+"thumbCam": "https://od.lk/s/M18yOTQwNjU1MDVf/canal2.jpg",
+"titleCam": "CANAL 2 INTERNATIONAL"
+},
+{
+"descriptionCam": "Ctv Africa TV est une chaîne de divertissement et d’évènementiel en Afrique francophone, anglophone et lusophone",
+"sourceCam": [
+"https://stream.it-innov.com:443/ctv/tracks-v1a1/mono.m3u8"
+],
+"subtitleCam": "All Channel",
+"thumbCam": "https://od.lk/s/M18yODQ2NjkyNzBf/ctvAfrique.jpeg",
+"titleCam": "CTV AFRICA"
+},
+{
+"descriptionCam": "Canal Woyla TV est une chaîne de divertissement et d’évènementiel. en Afrique francophone, anglophone et lusophone",
+"sourceCam": [
+"http://41.223.30.44:1935/Canalwoyla/canalwoyla/playlist.m3u8"
+],
+"subtitleCam": "All Channel",
+"thumbCam": "https://od.lk/s/NzNfNzk4NjUyNTJf/IMG-20240320-WA0729.jpg",
+"titleCam": "CANAL WOYLA"
+},
+{
+"descriptionCam": "Canal 2 International est l'une des chaines privées que l'on retrouve dans la ville de Yaounde, possédant des émissions variées et musiques",
+"sourceCam": [
+"http://185.59.221.131:8081/live/canal2international/playlist.m3u8"
+],
+"subtitleCam": "All Channel",
+"thumbCam": "https://od.lk/s/M18zMDM4Nzc0MzRf/canal2Intern.jpeg",
+"titleCam": "CANAL 2 INTERNATIONAL"
 },
 {
 "descriptionCam": "ACN TV est une chaine télévisée ematant au cameroune qui diffuse de la musique de toutes tendances.",
@@ -111,15 +129,6 @@
 "subtitleCam": "By Channel",
 "thumbCam": "https://od.lk/s/M18yOTU4OTU0MzZf/mymovieFrench.jpeg",
 "titleCam": "MY MOVIE FRENCH"
-},
-{
-"descriptionCam": "Canal 2 International est une chaîne de divertissement et d’évènementiel. en Afrique francophone, anglophone et lusophone",
-"sourceCam": [
-"http://69.64.57.208/canal2international/playlist.m3u8"
-],
-"subtitleCam": "By Channel",
-"thumbCam": "https://od.lk/s/M18yOTQwNjU1MDVf/canal2.jpg",
-"titleCam": "CANAL 2 INTERNATIONAL"
 },
 {
 "descriptionCam": "Vision 4 est l'une des chaines privées que l'on retrouve dans la ville de Yaounde, possédant des émissions variées et musique, Politiques...",
@@ -273,15 +282,6 @@
 "subtitleCam": "By Channel",
 "thumbCam": "https://od.lk/s/M18yOTU4OTU4NjVf/rougetv.jpeg",
 "titleCam": "ROUGE TV"
-},
-{
-"descriptionCam": "Next tv est une chaîne de télévision privée Americaine, un chaîne géneraliste disponible partout dans le monde. Pour tout contact du représentant en Afrique : +237 62 06 44 723",
-"sourceCam": [
-"https://stream.hopetvafrica.live/hls/stream.m3u8"
-],
-"subtitleCam": "By Channel",
-"thumbCam": "https://od.lk/s/NzNfNzg4NTQ4Njlf/nexttv.jpg",
-"titleCam": "NEXT TV"
 }
 ]
 }
